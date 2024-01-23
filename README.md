@@ -13,5 +13,5 @@
   - [nginx-playground](https://github.com/dupliaka/nginx-playground)
   - [beakerlib-quickstart](https://github.com/dupliaka/beakerlib-quickstart)
   - [tmt-quickstart](https://github.com/dupliaka/tmt-quickstart)
-- 📫 How to reach me: X, linkedin
+- 📫 How to reach me: [X](https://twitter.com/dupliaka), [linkedin](https://www.linkedin.com/in/anna-dupliak-1577797a)
 
